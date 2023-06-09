@@ -1,0 +1,2 @@
+Hubo un problema.
+Unable to merge unrelated histories in this repository.
